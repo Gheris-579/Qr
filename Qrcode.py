@@ -1,3 +1,5 @@
+##!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
 import qrcode
 from termcolor import colored
 import pyperclip as py
