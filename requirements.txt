@@ -1,0 +1,7 @@
+webbrowser
+pyfiglet
+Figlet
+pyperclip
+colored
+termcolor 
+qrcode
