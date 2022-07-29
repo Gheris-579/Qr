@@ -7,7 +7,7 @@
 # 🌐Installazione🌐 #
 
 ```
-cd QrCode
+cd Qr
 pip install -r requirements.txt
 python Qrcode.py
 ```
