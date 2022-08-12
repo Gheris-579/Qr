@@ -1,7 +1,4 @@
-webbrowser
 pyfiglet
-Figlet
 pyperclip
-colored
-termcolor 
+termcolor
 qrcode
