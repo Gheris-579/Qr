@@ -1,4 +1,0 @@
-pyfiglet
-pyperclip
-termcolor
-qrcode
