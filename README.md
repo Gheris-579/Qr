@@ -8,6 +8,6 @@
 
 ```
 cd Qr
-pip install -r requirements.txt
+chmod +x install.sh
 python Qrcode.py
 ```
