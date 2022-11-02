@@ -9,5 +9,6 @@
 ```
 cd Qr
 chmod +x install.sh
+./install.sh
 python Qrcode.py
 ```
