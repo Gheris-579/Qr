@@ -7,6 +7,7 @@
 # 🌐Installazione🌐 #
 
 ```
+git clone https://github.com/Gheris-579/Qr.git
 cd Qr
 chmod +x install.sh
 ./install.sh
